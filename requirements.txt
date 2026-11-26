@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib>=3.9
+requests
+joblib
+openpyxl
+lxml
+imbalanced-learn
+xgboost
